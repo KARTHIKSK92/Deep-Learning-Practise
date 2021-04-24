@@ -1,0 +1,2 @@
+model_checkpoint_path: "spine_classification"
+all_model_checkpoint_paths: "spine_classification"
